@@ -93,7 +93,6 @@ centers = np.array(centers)
 print('\n' + str(centers))
 
 
-
 plotx = []
 ploty = []
 for i in range(len(X)):
